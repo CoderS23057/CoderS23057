@@ -52,13 +52,14 @@ Secure password manager that generates strong passwords and stores them **locall
 ⭐ Focus: User access, dual storage support
 
 ---
+<div align="center">
 
-## 📊 GitHub Stats
+  <img src="https://img.shields.io/badge/LeetCode-41%2B_Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksForGeeks-20%2B_Problems-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-5_Problems-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahil&show_icons=true&theme=tokyonight&hide_border=false" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahil&theme=tokyonight&hide_border=false" width="47%" />
-</p>
+</div>
+
 
 ---
 
