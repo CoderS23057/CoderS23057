@@ -9,9 +9,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech student passionate about software development and DSA  
-- 💡 Learning and building projects using **C++, Java, Python, HTML, CSS, JavaScript**  
+- 💡 Learning and building projects using **C, C++, Java, Python, HTML, CSS, JavaScript**  
 - 🧠 Practicing DSA consistently:
-  - ✅ **LeetCode**: 41+ problems
+  - ✅ **LeetCode**: 150+ problems
   - ✅ **GeeksforGeeks**: 20+ problems
   - ✅ **HackerRank**: 5 problems
 - 🚀 Actively working on personal and collaborative projects
